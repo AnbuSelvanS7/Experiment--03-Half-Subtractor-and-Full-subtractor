@@ -40,15 +40,20 @@ RegisterNumber:
 */
 
 ## Output:
+![hal sub pro](https://github.com/AnbuSelvanS7/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/151528411/6b4d1423-7e49-4222-9022-13cb83847e8f)
+![ful sub pro](https://github.com/AnbuSelvanS7/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/151528411/f5103ce3-9a64-4f23-bb2b-938b1cb3f879)
 
 ## Truthtable
-
-
+![TT SUB HAL](https://github.com/AnbuSelvanS7/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/151528411/3a0f02c2-f5c5-4c27-8017-2a1222e2ec77)
+![TT SUB FULL](https://github.com/AnbuSelvanS7/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/151528411/e8c03850-11b7-442e-8c67-a9c1060e3489)
 
 ##  RTL realization
-
+![RTL SUB HAL](https://github.com/AnbuSelvanS7/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/151528411/1eb37290-b271-459d-8a60-7fe8686ee4b0)
+![RTL FULL SUB](https://github.com/AnbuSelvanS7/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/151528411/9a8187c2-96f7-4aea-a261-d633f43e7dca)
 
 ## Timing diagram 
+![TIME SUB HAL](https://github.com/AnbuSelvanS7/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/151528411/536a7154-8d33-46b4-8c7a-36e7962e8f1b)
+![TIME SUB FULL](https://github.com/AnbuSelvanS7/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/151528411/b6cff474-7caf-4595-9dd2-5bc038fea9ad)
 
 ## Result:
 Thus the half subtractor and full subtractor circuits are designed and the truth tables is verified using quartus software.
