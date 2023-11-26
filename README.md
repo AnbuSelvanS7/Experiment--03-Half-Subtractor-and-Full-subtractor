@@ -45,6 +45,7 @@ RegisterNumber:
 
 ## Truthtable
 ![TT SUB HAL](https://github.com/AnbuSelvanS7/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/151528411/3a0f02c2-f5c5-4c27-8017-2a1222e2ec77)
+
 ![TT SUB FULL](https://github.com/AnbuSelvanS7/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/151528411/e8c03850-11b7-442e-8c67-a9c1060e3489)
 
 ##  RTL realization
